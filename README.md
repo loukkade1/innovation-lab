@@ -2,8 +2,6 @@
 
 Smart agricultural technology for regenerative farming.
 
-**Live Site:** [https://innovation-lab-chi.vercel.app](https://innovation-lab-chi.vercel.app)
-
 ## Tech Stack
 
 - [Next.js](https://nextjs.org) (React framework)
